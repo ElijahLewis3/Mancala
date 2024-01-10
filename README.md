@@ -9,7 +9,7 @@ A program that represents the board game Mancala. Uses the rules from the follow
 ## Getting Started
 
 ### Dependencies
-
+ 
 * Javadocs for Serialization
 * Oracle for GUI
 
