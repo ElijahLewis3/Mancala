@@ -94,7 +94,7 @@ public class TextUI {
                 } else {
                     game.setCurrentPlayer(playerOne);
                 }
-                System.out.println("CURENT OPLAYER = " + currentPlayer);
+                System.out.println("CURRENT PLAYER = " + currentPlayer);
             } catch (InvalidMoveException e) {
                 System.out.println("Invalid move: " + e.getMessage());
             }

@@ -16,7 +16,6 @@ A program that represents the board game Mancala. Uses the rules from the follow
 
 ### Executing program
 #### User Created Code
-- Ensure you have cloned the repository and are in the GP4 directory
 - Ensure you have the following folder structure within the directory: src/ build.gradle
 - Run the command: ```gradle build```
 - After running the command, go to the ```build``` directory, then to ```libs``` and there you will see a ```TextUI.jar``` file. Double-click the file to run the program
